@@ -1,2 +1,1 @@
-# cadastrar-usuario
-cadastrar usuario
+# O Sistema PDV é uma aplicação web em PHP para cadastrar e consultar clientes. Por um formulário simples, o usuário informa o nome e o CPF de cada cliente, e o sistema guarda esses dados e mostra a lista dos clientes cadastrados.
